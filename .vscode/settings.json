@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "public/": true
+    },
+    "triggerTaskOnSave.delay": 1000,
+    "triggerTaskOnSave.restart": true,
+    "triggerTaskOnSave.tasks": { "build": [ "*.html", "*.js" ] },
+    "triggerTaskOnSave.selectedTask": "Serve draft site",
+    "triggerTaskOnSave.on": true,
+    "files.autoSave": "onFocusChange"
+}
