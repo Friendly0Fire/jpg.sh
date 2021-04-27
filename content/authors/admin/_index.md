@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Graphics Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Université de Montréal
-  url: "https://umontreal.ca"
+- name: Ubisoft Montréal &mdash; La Forge
+  url: "https://montreal.ubisoft.com/en/our-engagements/research-and-development/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a graphics researcher with interest in real-time rendering, light transport, and games.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Université de Montréal
-    year: TBA
+    year: 2021
   - course: MSc in Computer Science
     institution: Université de Montréal
     year: 2015
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Jean-Philippe Guertin is a PhD candidate in computer graphics at the Laboratoire d'informatique graphique of the Université de Montréal (LIGUM). His research interests include real-time rendering, light transport, graphics hardware, distribution effects, and virtual reality. He has done internships at various prestigious companies specializing in computer graphics and is currently wrapping up his thesis and looking for positions in graphics R&D.
+Hi! I am a graphics researcher at Ubisoft Montréal's La Forge labs. A recent PhD graduate in computer graphics at the Laboratoire d'informatique graphique of the Université de Montréal (LIGUM) my research interests include real-time rendering, light transport, graphics hardware, distribution effects, and virtual reality. I have done internships at various prestigious companies specializing in computer graphics, including Autodesk, Pixar, Oculus Research and Ubisoft.
