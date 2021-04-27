@@ -30,7 +30,9 @@
                     ]
                 }
             },
-            "dependsOn": ["hugo: build"],
+            "dependsOn": [
+                "hugo: build"
+            ],
             "command": "rsync -avzhe 'ssh -p ${env:HUGO_JPG_SYNC_PORT}' --progress --delete public/ ${env:HUGO_JPG_SYNC_URL}",
             "problemMatcher": []
         }

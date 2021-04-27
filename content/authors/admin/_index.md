@@ -14,7 +14,7 @@ role: Graphics Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Ubisoft Montréal &mdash; La Forge
+- name: Ubisoft Montréal — La Forge
   url: "https://montreal.ubisoft.com/en/our-engagements/research-and-development/"
 
 # Short bio (displayed in user profile at end of posts)
