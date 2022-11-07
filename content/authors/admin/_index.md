@@ -1,43 +1,43 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Jean-Philippe Guertin
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Jean-Philippe
+last_name: Guertin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graphics Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: Ubisoft Montréal — La Forge
+  url: "https://montreal.ubisoft.com/en/our-engagements/research-and-development/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a graphics researcher with interest in real-time rendering, light transport, and games.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Real-time Rendering
+- Light Transport
+- Graphics Hardware
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Computer Science
+    institution: Université de Montréal
+    year: 2021
+  - course: MSc in Computer Science
+    institution: Université de Montréal
+    year: 2015
+  - course: BSc in Computer Science
+    institution: Université de Montréal
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,21 +47,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.ca/citations?user=aKn8Z9IAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jpguertin/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a graphics researcher at Ubisoft Montréal La Forge. A PhD graduate in computer graphics at the Laboratoire d'informatique graphique of the Université de Montréal (LIGUM) my research interests include real-time rendering, light transport, graphics hardware, distribution effects, and virtual reality. I have previously conducted research in collaboration with Autodesk, Pixar, Meta Reality Labs and Ubisoft.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Interested in working with us at La Forge? Reach out to me on LinkedIn or by email!
